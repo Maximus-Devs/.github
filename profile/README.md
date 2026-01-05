@@ -135,7 +135,7 @@ Ready to build something extraordinary? Let's talk!
 
 | 📧 Email | 📍 Location | ⏱️ Response Time |
 |:--------:|:-----------:|:----------------:|
-| hello@maximusdevs.com | San Francisco, CA | Within 24 hours |
+| info@maximusdevs.com | San Jose, CR | Within 24 hours |
 
 </div>
 
