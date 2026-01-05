@@ -5,8 +5,6 @@
 ### Building Tomorrow's Software Today
 
 [![Website](https://img.shields.io/badge/Website-maximusdevs.com-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maximusdevs.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MaximusDevs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/maximusdevs)
-[![Twitter](https://img.shields.io/badge/Twitter-@MaximusDevs-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maximusdevs)
 
 ---
 
