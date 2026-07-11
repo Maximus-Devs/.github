@@ -5,6 +5,8 @@
 ### Building Tomorrow's Software Today
 
 [![Website](https://img.shields.io/badge/Website-maximusdevs.com-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maximusdevs.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MaximusDevs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/maximusdevs)
+[![Twitter](https://img.shields.io/badge/Twitter-@MaximusDevs-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maximusdevs)
 
 ---
 
@@ -22,7 +24,7 @@ Our journey is driven by curiosity, fueled by innovation, and guided by our resp
 
 | Founded | Team Members | Countries Served | Projects Delivered |
 |:-------:|:------------:|:----------------:|:------------------:|
-| 2020 | 25+ | 12 | 50+ |
+| 2020 | 10+ | 4 | 50+ |
 
 ## 💼 Our Services
 
@@ -71,8 +73,8 @@ We work with modern, battle-tested technologies to deliver robust solutions:
 
 | Backend | Frontend | Mobile | Languages |
 |:-------:|:--------:|:------:|:---------:|
-| Python | React | React Native | TypeScript |
-| Java | Next.js | Flutter | JavaScript |
+| Python | React 19 | React Native | TypeScript |
+| Java | Next.js 16 | Flutter | JavaScript |
 | PHP | TailwindCSS | Swift | Python |
 | Node.js | HTML5/CSS3 | Kotlin | Java |
 
@@ -127,6 +129,16 @@ Our solutions have transformed businesses across diverse sectors:
 - **🛒 E-Commerce** — Inventory management, personalized shopping experiences, payment integration
 - **🤖 Conversational AI** — Natural language processing, automated customer support
 
+## 🧩 Featured Projects
+
+The portfolio includes full case-study pages with live product mockups, bilingual copy (EN/ES), and direct download links where applicable:
+
+| Project | Platform | Highlights | Download |
+|:--------|:---------|:-----------|:---------|
+| [**Signaloo**](https://maximusdevs.com/en/projects/signaloo) | iOS | Privacy-first Bluetooth LE social discovery — no servers, no GPS, no accounts | [App Store](https://apps.apple.com/us/app/signaloo/id6781836974) |
+| [**Maximus Explorer**](https://maximusdevs.com/en/projects/maximus-explorer) | Android TV | File browser and transfer app for Android TV with on-device HTTP server | [APK v1.0.11](/downloads/maximus-explorer-1.0.11.apk) |
+| [**QA Console**](https://maximusdevs.com/en/projects/qa-console) | Web | Internal QA tooling and workflow console | — |
+
 ## 📞 Contact Us
 
 Ready to build something extraordinary? Let's talk!
@@ -135,7 +147,7 @@ Ready to build something extraordinary? Let's talk!
 
 | 📧 Email | 📍 Location | ⏱️ Response Time |
 |:--------:|:-----------:|:----------------:|
-| info@maximusdevs.com | San Jose, CR | Within 24 hours |
+| info@maximusdevs.com | San Francisco, CA | Within 24 hours |
 
 </div>
 
@@ -165,7 +177,7 @@ We're always looking for talented individuals who share our passion for innovati
 
 ---
 
-**© 2024 MaximusDevs. All rights reserved.**
+**© 2026 MaximusDevs. All rights reserved.**
 
 *Building the future with innovative software solutions.*
 
