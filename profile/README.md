@@ -36,30 +36,48 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>Diseño y UX</h3>
+    <td width="33%" valign="top" align="center">
+      <img src="assets/icons/design.png" width="64" height="64" alt="Diseño y UX" />
+      <br /><br />
+      <strong>Diseño y UX</strong>
+      <br /><br />
       Interfaces claras, investigación de usuarios y sistemas de diseño accesibles (WCAG).
     </td>
-    <td width="33%" valign="top">
-      <h3>Seguridad</h3>
+    <td width="33%" valign="top" align="center">
+      <img src="assets/icons/security.png" width="64" height="64" alt="Seguridad" />
+      <br /><br />
+      <strong>Seguridad</strong>
+      <br /><br />
       Auditorías, cifrado y cumplimiento (SOC 2, GDPR, HIPAA, PCI-DSS).
     </td>
-    <td width="33%" valign="top">
-      <h3>Web</h3>
+    <td width="33%" valign="top" align="center">
+      <img src="assets/icons/web.png" width="64" height="64" alt="Web" />
+      <br /><br />
+      <strong>Web</strong>
+      <br /><br />
       Apps rápidas con Next.js y React, pensadas para Core Web Vitals.
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
-      <h3>Móvil</h3>
+    <td width="33%" valign="top" align="center">
+      <img src="assets/icons/mobile.png" width="64" height="64" alt="Móvil" />
+      <br /><br />
+      <strong>Móvil</strong>
+      <br /><br />
       iOS y Android nativo o multiplataforma. Offline-first cuando hace falta.
     </td>
-    <td width="33%" valign="top">
-      <h3>Consultoría</h3>
+    <td width="33%" valign="top" align="center">
+      <img src="assets/icons/consulting.png" width="64" height="64" alt="Consultoría" />
+      <br /><br />
+      <strong>Consultoría</strong>
+      <br /><br />
       Roadmaps, arquitectura y modernización de sistemas legacy.
     </td>
-    <td width="33%" valign="top">
-      <h3>Industrias</h3>
+    <td width="33%" valign="top" align="center">
+      <img src="assets/icons/industries.png" width="64" height="64" alt="Industrias" />
+      <br /><br />
+      <strong>Industrias</strong>
+      <br /><br />
       FinTech, empresa, salud, e-commerce e IA conversacional.
     </td>
   </tr>
@@ -124,10 +142,34 @@
 
 <table>
   <tr>
-    <td width="25%" valign="top"><strong>Innovación</strong><br />Tecnología al servicio del producto, no al revés.</td>
-    <td width="25%" valign="top"><strong>Seguridad</strong><br />Cada decisión considera el dato del cliente.</td>
-    <td width="25%" valign="top"><strong>Transparencia</strong><br />Comunicación directa y acuerdos claros.</td>
-    <td width="25%" valign="top"><strong>Excelencia</strong><br />Calidad en el detalle, sin importar la escala.</td>
+    <td width="25%" valign="top" align="center">
+      <img src="assets/icons/innovation.png" width="52" height="52" alt="Innovación" />
+      <br /><br />
+      <strong>Innovación</strong>
+      <br />
+      Tecnología al servicio del producto, no al revés.
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="assets/icons/lock.png" width="52" height="52" alt="Seguridad" />
+      <br /><br />
+      <strong>Seguridad</strong>
+      <br />
+      Cada decisión considera el dato del cliente.
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="assets/icons/transparency.png" width="52" height="52" alt="Transparencia" />
+      <br /><br />
+      <strong>Transparencia</strong>
+      <br />
+      Comunicación directa y acuerdos claros.
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="assets/icons/excellence.png" width="52" height="52" alt="Excelencia" />
+      <br /><br />
+      <strong>Excelencia</strong>
+      <br />
+      Calidad en el detalle, sin importar la escala.
+    </td>
   </tr>
 </table>
 
