@@ -12,7 +12,7 @@
 
 <p align="center">
   Diseño, seguridad y tecnología de vanguardia para productos que sí se usan.<br />
-  Sitio bilingüe · ES / EN · Costa Rica / remoto
+  Sitio bilingüe · ES / EN · Costa Rica
 </p>
 
 <p align="center">
