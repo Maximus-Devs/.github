@@ -2,7 +2,7 @@
 
 # MaximusDevs
 
-### Building Tomorrow's Software Today
+### Construyendo el Software del Mañana Hoy
 
 [![Website](https://img.shields.io/badge/Website-maximusdevs.com-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maximusdevs.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MaximusDevs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/maximusdevs)
@@ -10,69 +10,69 @@
 
 ---
 
-**We craft exceptional digital experiences through innovative design, robust security, and cutting-edge technology that transforms businesses.**
+**Creamos experiencias digitales excepcionales a través de diseño innovador, seguridad robusta y tecnología de vanguardia que transforma negocios.**
 
 </div>
 
-## 🚀 About Us
+## Sobre nosotros
 
-**MaximusDevs** is a technology company founded in 2020, dedicated to building accessible and ethical software solutions that empower businesses of all sizes to thrive in the digital age. What started as a small team of three engineers has grown into a global collective of **25+ innovators** serving clients across **12 countries**.
+**MaximusDevs** es una empresa de tecnología fundada en 2020. Diseñamos software accesible y ético para que negocios de cualquier tamaño crezcan en la era digital.
 
-Our journey is driven by curiosity, fueled by innovation, and guided by our responsibility to deliver excellence in every project we undertake.
+El sitio y las páginas de caso de estudio son bilingües (español e inglés). El idioma se cambia en la navegación y se refleja en la URL (`/es`, `/en`).
 
-### 📊 By the Numbers
+### En cifras
 
-| Founded | Team Members | Countries Served | Projects Delivered |
-|:-------:|:------------:|:----------------:|:------------------:|
-| 2020 | 10+ | 4 | 50+ |
+| Fundada | Experiencia | Tiempo de respuesta | Proyectos entregados |
+|:-------:|:-----------:|:-------------------:|:--------------------:|
+| 2020 | 15+ años | <24 h | 50+ |
 
-## 💼 Our Services
+## Servicios
 
-We offer a comprehensive range of software development services designed to solve complex business challenges:
+Ofrecemos un rango completo de desarrollo de software para resolver problemas de negocio complejos:
 
-### 🎨 User-Centric Design & UX
-Craft intuitive and accessible interfaces that drive user engagement and delight customers across every device.
-- **User Research** — Deep understanding through interviews, surveys, and behavior analysis
-- **UI Design** — Beautiful, pixel-perfect interfaces with consistent design systems
-- **UX Strategy** — User journey mapping, wireframing, and prototyping
-- **Accessibility** — WCAG compliant designs ensuring usability for everyone
+### Diseño y UX centrado en el usuario
+Interfaces intuitivas y accesibles que impulsan el engagement en cualquier dispositivo.
+- **Investigación de usuarios** — entrevistas, encuestas y análisis de comportamiento
+- **Diseño de UI** — interfaces consistentes y sistemas de diseño
+- **Estrategia UX** — journeys, wireframes y prototipos
+- **Accesibilidad** — diseños alineados con WCAG
 
-### 🔒 Enterprise Security
-Bank-grade protection implemented at every layer, ensuring your data remains secure against evolving cyber threats.
-- **Security Audits** — Comprehensive vulnerability assessments and penetration testing
-- **Compliance & Standards** — SOC 2, GDPR, HIPAA, and PCI-DSS implementation
-- **Data Encryption** — End-to-end encryption with secure key management
-- **Threat Monitoring** — 24/7 security monitoring and incident response
+### Seguridad empresarial
+Protección de nivel bancario en cada capa, frente a amenazas que cambian todo el tiempo.
+- **Auditorías de seguridad** — evaluación de vulnerabilidades y pruebas de penetración
+- **Cumplimiento** — SOC 2, GDPR, HIPAA y PCI-DSS
+- **Cifrado de datos** — cifrado de extremo a extremo y gestión de claves
+- **Monitoreo de amenazas** — vigilancia e incidentes 24/7
 
-### 🌐 Web Application Development
-Fast, secure, and scalable web applications built with the latest technologies.
-- **Next.js & React** — Server-side rendering with optimal performance
-- **Responsive Design** — Flawless experiences across all devices
-- **Performance First** — Optimized for Core Web Vitals with sub-second load times
-- **Accessibility** — WCAG compliant applications for everyone
+### Desarrollo de aplicaciones web
+Aplicaciones rápidas, seguras y escalables con tecnologías actuales.
+- **Next.js y React** — renderizado en servidor y buen rendimiento
+- **Diseño responsive** — experiencia coherente en todos los dispositivos
+- **Rendimiento primero** — Core Web Vitals y tiempos de carga bajos
+- **Accesibilidad** — aplicaciones usables para todas las personas
 
-### 📱 Mobile App Development
-Native and cross-platform mobile applications designed for seamless iOS and Android experiences.
-- **Cross-Platform Development** — React Native and Flutter for unified codebases
-- **Native Performance** — Swift for iOS and Kotlin for Android when critical
-- **Offline-First Architecture** — Smart data synchronization and local storage
-- **User Engagement** — Push notifications, analytics, and retention optimization
+### Desarrollo de apps móviles
+Apps nativas y multiplataforma para iOS y Android.
+- **Multiplataforma** — React Native y Flutter
+- **Rendimiento nativo** — Swift en iOS y Kotlin en Android cuando hace falta
+- **Arquitectura offline-first** — sincronización inteligente y almacenamiento local
+- **Engagement** — notificaciones, analítica y retención
 
-### 🧭 Strategic Consulting
-Expert technical guidance to align your digital transformation roadmap with your core business objectives.
-- **Digital Strategy** — Technology roadmaps aligned with business goals
-- **Architecture Review** — System analysis to identify bottlenecks and opportunities
-- **Digital Transformation** — End-to-end guidance for modernizing legacy systems
-- **Process Optimization** — Data-driven insights and automation strategies
+### Consultoría estratégica
+Guía técnica para alinear la transformación digital con los objetivos del negocio.
+- **Estrategia digital** — roadmaps tecnológicos
+- **Revisión de arquitectura** — cuellos de botella y oportunidades
+- **Transformación digital** — modernización de sistemas legacy
+- **Optimización de procesos** — automatización e insights
 
-## 🛠️ Technology Stack
+## Stack tecnológico
 
-We work with modern, battle-tested technologies to deliver robust solutions:
+Trabajamos con tecnologías modernas y probadas:
 
 <div align="center">
 
-| Backend | Frontend | Mobile | Languages |
-|:-------:|:--------:|:------:|:---------:|
+| Backend | Frontend | Móvil | Lenguajes |
+|:-------:|:--------:|:-----:|:---------:|
 | Python | React 19 | React Native | TypeScript |
 | Java | Next.js 16 | Flutter | JavaScript |
 | PHP | TailwindCSS | Swift | Python |
@@ -80,105 +80,113 @@ We work with modern, battle-tested technologies to deliver robust solutions:
 
 </div>
 
-### Cloud & Infrastructure
-- **Cloud Providers:** AWS, Google Cloud, Azure
+### Nube e infraestructura
+- **Proveedores:** AWS, Google Cloud, Azure
 - **CI/CD:** GitHub Actions, Jenkins, GitLab CI
-- **Containerization:** Docker, Kubernetes
-- **Monitoring:** DataDog, New Relic, Grafana
+- **Contenedores:** Docker, Kubernetes
+- **Monitoreo:** DataDog, New Relic, Grafana
 
-## 🎯 Our Values
+## Valores
 
 <table>
 <tr>
 <td width="50%">
 
-### 💡 Innovation First
-We push boundaries and embrace cutting-edge technologies to deliver solutions that are ahead of the curve.
+### Innovación primero
+Empujamos los límites y usamos tecnología de punta para entregar soluciones adelantadas.
 
 </td>
 <td width="50%">
 
-### 🔐 Security First
-Every line of code considers security implications. Protecting our clients' data isn't optional—it's essential.
+### Seguridad primero
+Cada línea de código considera implicaciones de seguridad. Proteger los datos del cliente no es opcional.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🔍 Transparency
-We believe in open communication, ethical practices, and building trust through honesty.
+### Transparencia
+Comunicación abierta, prácticas éticas y confianza construida con honestidad.
 
 </td>
 <td width="50%">
 
-### ⭐ Excellence
-We're committed to delivering exceptional quality in every project, no matter the scale.
+### Excelencia
+Calidad excepcional en cada proyecto, sin importar la escala.
 
 </td>
 </tr>
 </table>
 
-## 🏆 Industries We Serve
+## Industrias
 
-Our solutions have transformed businesses across diverse sectors:
+Nuestras soluciones han transformado negocios en varios sectores:
 
-- **🏦 FinTech** — Real-time analytics, secure payment processing, financial dashboards
-- **🏢 Enterprise** — Security platforms, compliance tools, workflow automation
-- **🏥 Healthcare** — Medical imaging analysis, HIPAA-compliant systems, patient portals
-- **🛒 E-Commerce** — Inventory management, personalized shopping experiences, payment integration
-- **🤖 Conversational AI** — Natural language processing, automated customer support
+- **FinTech** — analítica en tiempo real, pagos seguros, dashboards financieros
+- **Empresa** — plataformas de seguridad, cumplimiento, automatización
+- **Salud** — análisis de imagen médica, sistemas HIPAA, portales de pacientes
+- **E-commerce** — inventario, experiencias personalizadas, pagos
+- **IA conversacional** — procesamiento de lenguaje natural y soporte automático
 
-## 🧩 Featured Projects
+## Proyectos destacados
 
-The portfolio includes full case-study pages with live product mockups, bilingual copy (EN/ES), and direct download links where applicable:
+El portafolio usa URLs con slug y páginas bilingües, con mockups del producto y descargas cuando aplica.
 
-| Project | Platform | Highlights | Download |
-|:--------|:---------|:-----------|:---------|
-| [**Signaloo**](https://maximusdevs.com/en/projects/signaloo) | iOS | Privacy-first Bluetooth LE social discovery — no servers, no GPS, no accounts | [App Store](https://apps.apple.com/us/app/signaloo/id6781836974) |
-| [**Maximus Explorer**](https://maximusdevs.com/en/projects/maximus-explorer) | Android TV | File browser and transfer app for Android TV with on-device HTTP server | [APK v1.0.11](/downloads/maximus-explorer-1.0.11.apk) |
-| [**QA Console**](https://maximusdevs.com/en/projects/qa-console) | Web | Internal QA tooling and workflow console | — |
+### Casos de estudio públicos
 
-## 📞 Contact Us
+| Proyecto | Plataforma | Destacados | Descarga |
+|:---------|:-----------|:-----------|:---------|
+| [**Signaloo**](https://maximusdevs.com/es/projects/signaloo) | iOS | Descubrimiento social por Bluetooth LE, sin servidores, GPS ni cuentas | [App Store](https://apps.apple.com/us/app/signaloo/id6781836974) |
+| [**Maximus Explorer**](https://maximusdevs.com/es/projects/maximus-explorer) | Android TV | Explorador de archivos y transferencias en TV con servidor HTTP local | [APK v1.0.11](https://maximusdevs.com/downloads/maximus-explorer-1.0.11.apk) |
+| [**QA Console**](https://maximusdevs.com/es/projects/qa-console) | Web | Plataforma de QA con agentes de IA | — |
 
-Ready to build something extraordinary? Let's talk!
+### Casos privados (NDA)
+
+Estos proyectos aparecen en el listado del sitio. La ficha no es pública: se muestra un aviso de caso privado y un CTA para solicitar acceso.
+
+SecureVault Platform · VoiceAI Assistant · SmartRetail Platform · MedScan Diagnostics · GridMaster Energy
+
+## Contacto
+
+¿Listos para construir algo extraordinario? Hablemos.
 
 <div align="center">
 
-| 📧 Email | 📍 Location | ⏱️ Response Time |
-|:--------:|:-----------:|:----------------:|
-| info@maximusdevs.com | San Francisco, CA | Within 24 hours |
+| Email | Ubicación | Tiempo de respuesta |
+|:-----:|:---------:|:-------------------:|
+| info@maximusdevs.com | San Francisco / Remoto | Menos de 24 horas |
 
 </div>
 
-### Get Started
-1. **Reach out** through our [contact page](https://maximusdevs.com/contact) or email us directly
-2. **Free consultation** to discuss your project and understand your goals
-3. **Custom proposal** with scope, timeline, and pricing tailored to your needs
+### Cómo empezar
+1. **Escríbenos** por la [página de contacto](https://maximusdevs.com/es/contact) o por email
+2. **Consulta gratuita** para entender el proyecto y los objetivos
+3. **Propuesta a medida** con alcance, plazos y precio
 
-## 🤝 Work With Us
+## Trabaja con nosotros
 
-We're always looking for talented individuals who share our passion for innovation. Check out our [careers page](https://maximusdevs.com/careers) for open positions!
+Buscamos personas con ganas de innovar. Las vacantes están en la [página de carreras](https://maximusdevs.com/es/careers).
 
-**Benefits:**
-- 🌍 Remote-first culture — work from anywhere
-- 📚 Continuous learning budget and mentorship
-- 💡 Work on projects that make a real impact
-- 🌈 Inclusive and diverse team culture
+**Beneficios:**
+- Cultura remote-first — trabaja desde donde quieras
+- Presupuesto de aprendizaje continuo y mentoría
+- Proyectos con impacto real
+- Equipo inclusivo y diverso
 
 ---
 
 <div align="center">
 
-### Ready to Transform Your Business?
+### ¿Listo para transformar tu negocio?
 
-[![Start a Project](https://img.shields.io/badge/Start_a_Project-00F5FF?style=for-the-badge&logo=rocket&logoColor=black)](https://maximusdevs.com/contact)
-[![View Our Work](https://img.shields.io/badge/View_Our_Work-8B5CF6?style=for-the-badge&logo=eye&logoColor=white)](https://maximusdevs.com/projects)
+[![Iniciar un proyecto](https://img.shields.io/badge/Iniciar_un_proyecto-00F5FF?style=for-the-badge&logo=rocket&logoColor=black)](https://maximusdevs.com/es/contact)
+[![Ver nuestro trabajo](https://img.shields.io/badge/Ver_nuestro_trabajo-8B5CF6?style=for-the-badge&logo=eye&logoColor=white)](https://maximusdevs.com/es/projects)
 
 ---
 
-**© 2026 MaximusDevs. All rights reserved.**
+**© 2026 MaximusDevs. Todos los derechos reservados.**
 
-*Building the future with innovative software solutions.*
+*Construyendo el futuro con soluciones de software innovadoras.*
 
 </div>
