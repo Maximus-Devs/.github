@@ -179,7 +179,6 @@
 <p align="center">
   <a href="https://maximusdevs.com/es/contact"><img src="https://img.shields.io/badge/Iniciar_un_proyecto-111111?style=for-the-badge&labelColor=000000" alt="Iniciar un proyecto" /></a>
   <a href="https://maximusdevs.com/es/projects"><img src="https://img.shields.io/badge/Ver_el_portafolio-111111?style=for-the-badge&labelColor=000000" alt="Ver el portafolio" /></a>
-  <a href="https://maximusdevs.com/es/careers"><img src="https://img.shields.io/badge/Carreras-111111?style=for-the-badge&labelColor=000000" alt="Carreras" /></a>
 </p>
 
 <p align="center">
