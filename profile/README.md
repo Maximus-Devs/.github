@@ -92,7 +92,7 @@
       </a>
       <br />
       <strong><a href="https://maximusdevs.com/es/projects/signaloo">Signaloo</a></strong><br />
-      iOS · Bluetooth LE, sin servidores ni GPS<br />
+      iOS · Bluetooth Finder<br />
       <a href="https://apps.apple.com/us/app/signaloo/id6781836974">App Store</a>
     </td>
     <td width="33%" valign="top" align="center">
@@ -101,7 +101,7 @@
       </a>
       <br />
       <strong><a href="https://maximusdevs.com/es/projects/maximus-explorer">Maximus Explorer</a></strong><br />
-      Android TV · archivos y transferencia local<br />
+      Android TV · File Transfer<br />
       <a href="https://maximusdevs.com/downloads/maximus-explorer-1.0.11.apk">Descargar APK</a>
     </td>
     <td width="33%" valign="top" align="center">
@@ -110,7 +110,7 @@
       </a>
       <br />
       <strong><a href="https://maximusdevs.com/es/projects/qa-console">QA Console</a></strong><br />
-      Web · QA con agentes de IA
+      Web · QA with IA agents
     </td>
   </tr>
 </table>
