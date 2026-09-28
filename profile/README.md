@@ -133,11 +133,6 @@
   </tr>
 </table>
 
-<p>
-  Otros proyectos de cliente están bajo NDA (SecureVault, VoiceAI, SmartRetail, MedScan, GridMaster).
-  En el sitio se ve un aviso de caso privado, no un 404.
-</p>
-
 ## Cómo trabajamos
 
 <table>
