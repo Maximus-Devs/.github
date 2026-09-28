@@ -5,8 +5,9 @@
 ### Construyendo el Software del Mañana Hoy
 
 [![Website](https://img.shields.io/badge/Website-maximusdevs.com-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maximusdevs.com)
+[![YouTube](https://img.shields.io/badge/YouTube-@maximus--devs-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@maximus-devs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MaximusDevs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/maximusdevs)
-[![Twitter](https://img.shields.io/badge/Twitter-@MaximusDevs-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maximusdevs)
+[![X](https://img.shields.io/badge/X-@Maximus__Devs-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maximus_devs)
 
 ---
 
