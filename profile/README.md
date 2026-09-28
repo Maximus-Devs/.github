@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://maximusdevs.com/og-image.png" alt="MaximusDevs" width="920" />
+  <img src="assets/banner.jpg" alt="MaximusDevs" width="920" />
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@
   <tr>
     <td width="33%" valign="top" align="center">
       <a href="https://maximusdevs.com/es/projects/signaloo">
-        <img src="https://maximusdevs.com/images/projects/signaloo/radar.png" alt="Signaloo" />
+        <img src="assets/signaloo-card.png" alt="Signaloo" width="100%" />
       </a>
       <br />
       <strong><a href="https://maximusdevs.com/es/projects/signaloo">Signaloo</a></strong><br />
@@ -97,7 +97,7 @@
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://maximusdevs.com/es/projects/maximus-explorer">
-        <img src="https://maximusdevs.com/images/projects/maximus-explorer/og.png" alt="Maximus Explorer" />
+        <img src="https://maximusdevs.com/images/projects/maximus-explorer/og.png" alt="Maximus Explorer" width="100%" />
       </a>
       <br />
       <strong><a href="https://maximusdevs.com/es/projects/maximus-explorer">Maximus Explorer</a></strong><br />
@@ -106,7 +106,7 @@
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://maximusdevs.com/es/projects/qa-console">
-        <img src="https://maximusdevs.com/images/projects/qa-console/og.png" alt="QA Console" />
+        <img src="https://maximusdevs.com/images/projects/qa-console/og.png" alt="QA Console" width="100%" />
       </a>
       <br />
       <strong><a href="https://maximusdevs.com/es/projects/qa-console">QA Console</a></strong><br />
