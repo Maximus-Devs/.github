@@ -135,7 +135,7 @@
 
 <p align="center">
   <strong><a href="mailto:info@maximusdevs.com">info@maximusdevs.com</a></strong>
-  · San Francisco / remoto
+  · Costa Rica / remoto
   · respuesta &lt; 24 h
 </p>
 
