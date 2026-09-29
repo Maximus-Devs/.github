@@ -7,11 +7,12 @@
 </p>
 
 <h3 align="center">
-  Construyendo el software del mañana, hoy
+  Tu producto en manos expertas
 </h3>
 
 <p align="center">
-  Diseño, seguridad y tecnología de vanguardia para productos que sí se usan.<br />
+  Diseñamos, construimos y aseguramos aplicaciones web, apps móviles y herramientas de IA<br />
+  para fundadores, pequeños negocios y los equipos dentro de ellos. El código es tuyo.<br />
   Sitio bilingüe · ES / EN · Costa Rica
 </p>
 
@@ -30,55 +31,59 @@
   <img src="https://img.shields.io/badge/Proyectos-50%2B-111111?style=for-the-badge&labelColor=000000" alt="50+ proyectos" />
 </p>
 
+<p align="center">
+  <sub>Los 15+ años y los 50+ proyectos son la trayectoria del equipo: trabajo con clientes antes del estudio y desde su fundación en 2020.</sub>
+</p>
+
 ---
 
-## Qué construimos
+## Lo que puedes contratar
 
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="assets/icons/design.png" width="64" height="64" alt="Diseño y UX" />
+      <img src="assets/icons/design.png" width="64" height="64" alt="Diseño de producto" />
       <br /><br />
-      <strong>Diseño y UX</strong>
+      <strong><a href="https://maximusdevs.com/es/services/design">Diseño de producto</a></strong>
       <br /><br />
-      Interfaces claras, investigación de usuarios y sistemas de diseño accesibles (WCAG).
+      Interfaces que tus clientes pueden usar, en el teléfono y en el escritorio, antes de escribir código de producción.
     </td>
     <td width="33%" valign="top" align="center">
       <img src="assets/icons/security.png" width="64" height="64" alt="Seguridad" />
       <br /><br />
-      <strong>Seguridad</strong>
+      <strong><a href="https://maximusdevs.com/es/services/security">Seguridad</a></strong>
       <br /><br />
-      Auditorías, cifrado y cumplimiento (SOC 2, GDPR, HIPAA, PCI-DSS).
+      Revisión, endurecimiento y hábitos de desarrollo para proteger los datos de tus clientes en el producto que publicas.
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="assets/icons/web.png" width="64" height="64" alt="Web" />
+      <img src="assets/icons/web.png" width="64" height="64" alt="Productos web" />
       <br /><br />
-      <strong>Web</strong>
+      <strong><a href="https://maximusdevs.com/es/services/web">Productos web</a></strong>
       <br /><br />
-      Apps rápidas con Next.js y React, pensadas para Core Web Vitals.
+      La aplicación web con la que opera el negocio, con una estructura que puede crecer sin reescribirla a los seis meses.
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="assets/icons/mobile.png" width="64" height="64" alt="Móvil" />
+      <img src="assets/icons/innovation.png" width="64" height="64" alt="IA en el producto" />
       <br /><br />
-      <strong>Móvil</strong>
+      <strong>IA en el producto</strong>
       <br /><br />
-      iOS y Android nativo o multiplataforma. Offline-first cuando hace falta.
+      IA con un trabajo concreto: soporte, QA, búsqueda o el flujo que tu equipo repite cada día.
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="assets/icons/consulting.png" width="64" height="64" alt="Consultoría" />
+      <img src="assets/icons/mobile.png" width="64" height="64" alt="Apps móviles" />
       <br /><br />
-      <strong>Consultoría</strong>
+      <strong><a href="https://maximusdevs.com/es/services/mobile">Apps móviles</a></strong>
       <br /><br />
-      Roadmaps, arquitectura y modernización de sistemas legacy.
+      iOS y Android, nativas o multiplataforma, recortadas a lo que el negocio necesita primero.
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="assets/icons/industries.png" width="64" height="64" alt="Industrias" />
+      <img src="assets/icons/consulting.png" width="64" height="64" alt="Plan técnico" />
       <br /><br />
-      <strong>Industrias</strong>
+      <strong><a href="https://maximusdevs.com/es/services/consulting">Plan técnico</a></strong>
       <br /><br />
-      FinTech, empresa, salud, e-commerce e IA conversacional.
+      Qué construir, qué dejar para después y cómo partir el presupuesto, antes de empezar a desarrollar.
     </td>
   </tr>
 </table>
@@ -142,7 +147,66 @@
       </a>
       <br />
       <strong><a href="https://maximusdevs.com/es/projects/qa-console">QA Console</a></strong><br />
-      Web · QA with IA agents
+      Web · QA con agentes de IA
+    </td>
+  </tr>
+</table>
+
+## Soluciones que construimos
+
+Soluciones que diseñamos, construimos y lanzamos de principio a fin, adaptadas al negocio, sus datos y las herramientas que ya usa.
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://maximusdevs.com/es/projects/bookingapp">
+        <img src="https://maximusdevs.com/images/projects/bookingapp/cover.png" alt="App de reservas" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://maximusdevs.com/es/projects/bookingapp">App de reservas</a></strong><br />
+      Móvil · El cliente elige una hora y el dueño ve el día
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://maximusdevs.com/es/projects/securitydashboard">
+        <img src="https://maximusdevs.com/images/projects/securitydashboard/cover.png" alt="Panel de seguridad" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://maximusdevs.com/es/projects/securitydashboard">Panel de seguridad</a></strong><br />
+      Seguridad · Accesos, alertas y controles de cuentas
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://maximusdevs.com/es/projects/supportassistant">
+        <img src="https://maximusdevs.com/images/projects/supportassistant/cover.png" alt="Asistente de soporte" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://maximusdevs.com/es/projects/supportassistant">Asistente de soporte</a></strong><br />
+      IA · Respuestas desde tus documentos, con revisión humana
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://maximusdevs.com/es/projects/shopinventory">
+        <img src="https://maximusdevs.com/images/projects/shopinventory/cover.png" alt="Inventario de tienda" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://maximusdevs.com/es/projects/shopinventory">Inventario de tienda</a></strong><br />
+      Web · Stock, pedidos y cobro
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://maximusdevs.com/es/projects/clinicintake">
+        <img src="https://maximusdevs.com/images/projects/clinicintake/cover.png" alt="Admisión de clínica" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://maximusdevs.com/es/projects/clinicintake">Admisión de clínica</a></strong><br />
+      Web · Admisión, documentos y cola de revisión
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://maximusdevs.com/es/projects/operationsdashboard">
+        <img src="https://maximusdevs.com/images/projects/operationsdashboard/cover.png" alt="Panel de operaciones" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://maximusdevs.com/es/projects/operationsdashboard">Panel de operaciones</a></strong><br />
+      Web · Lecturas en vivo y costo en una pantalla
     </td>
   </tr>
 </table>
