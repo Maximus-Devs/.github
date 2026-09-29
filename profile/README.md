@@ -46,21 +46,21 @@
       <br /><br />
       <strong><a href="https://maximusdevs.com/es/services/design">Diseño de producto</a></strong>
       <br /><br />
-      Interfaces que tus clientes pueden usar, en el teléfono y en el escritorio, antes de escribir código de producción.
+      Interfaces increíbles que tus clientes pueden usar, en el teléfono y en el escritorio.
     </td>
     <td width="33%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/security.png" width="64" height="64" alt="Seguridad" />
       <br /><br />
       <strong><a href="https://maximusdevs.com/es/services/security">Seguridad</a></strong>
       <br /><br />
-      Revisión, endurecimiento y hábitos de desarrollo para proteger los datos de tus clientes en el producto que publicas.
+      Revisión, bloqueo y hábitos de desarrollo seguros para proteger los datos de tus proyectos.
     </td>
     <td width="33%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/web.png" width="64" height="64" alt="Productos web" />
       <br /><br />
       <strong><a href="https://maximusdevs.com/es/services/web">Productos web</a></strong>
       <br /><br />
-      La aplicación web con la que opera el negocio, con una estructura que puede crecer sin reescribirla a los seis meses.
+      La aplicación web con la que opera el negocio, con una estructura que puede crecer.
     </td>
   </tr>
   <tr>
@@ -69,21 +69,21 @@
       <br /><br />
       <strong>IA en el producto</strong>
       <br /><br />
-      IA con un trabajo concreto: soporte, QA, búsqueda o el flujo que tu equipo repite cada día.
+      IA con un trabajo concreto: análisis, diseño y construcción que tu equipo usa cada día.
     </td>
     <td width="33%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/mobile.png" width="64" height="64" alt="Apps móviles" />
       <br /><br />
       <strong><a href="https://maximusdevs.com/es/services/mobile">Apps móviles</a></strong>
       <br /><br />
-      iOS y Android, nativas o multiplataforma, recortadas a lo que el negocio necesita primero.
+      iOS y Android, nativas o multiplataforma, adaptadas a lo que el negocio necesita.
     </td>
     <td width="33%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/consulting.png" width="64" height="64" alt="Plan técnico" />
       <br /><br />
       <strong><a href="https://maximusdevs.com/es/services/consulting">Plan técnico</a></strong>
       <br /><br />
-      Qué construir, qué dejar para después y cómo partir el presupuesto, antes de empezar a desarrollar.
+      Qué construir, qué dejar para después y cómo manejar el presupuesto.
     </td>
   </tr>
 </table>
