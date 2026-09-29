@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  Tu producto en manos expertas
+  Tu producto en manos de expertos
 </h3>
 
 <p align="center">
