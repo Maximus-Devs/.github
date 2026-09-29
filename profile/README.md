@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="MaximusDevs" width="920" />
+  <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/banner.jpg" alt="MaximusDevs" width="920" />
 </p>
 
 <p align="center">
@@ -42,21 +42,21 @@
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="assets/icons/design.png" width="64" height="64" alt="Diseño de producto" />
+      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/design.png" width="64" height="64" alt="Diseño de producto" />
       <br /><br />
       <strong><a href="https://maximusdevs.com/es/services/design">Diseño de producto</a></strong>
       <br /><br />
       Interfaces que tus clientes pueden usar, en el teléfono y en el escritorio, antes de escribir código de producción.
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="assets/icons/security.png" width="64" height="64" alt="Seguridad" />
+      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/security.png" width="64" height="64" alt="Seguridad" />
       <br /><br />
       <strong><a href="https://maximusdevs.com/es/services/security">Seguridad</a></strong>
       <br /><br />
       Revisión, endurecimiento y hábitos de desarrollo para proteger los datos de tus clientes en el producto que publicas.
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="assets/icons/web.png" width="64" height="64" alt="Productos web" />
+      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/web.png" width="64" height="64" alt="Productos web" />
       <br /><br />
       <strong><a href="https://maximusdevs.com/es/services/web">Productos web</a></strong>
       <br /><br />
@@ -65,21 +65,21 @@
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="assets/icons/innovation.png" width="64" height="64" alt="IA en el producto" />
+      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/innovation.png" width="64" height="64" alt="IA en el producto" />
       <br /><br />
       <strong>IA en el producto</strong>
       <br /><br />
       IA con un trabajo concreto: soporte, QA, búsqueda o el flujo que tu equipo repite cada día.
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="assets/icons/mobile.png" width="64" height="64" alt="Apps móviles" />
+      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/mobile.png" width="64" height="64" alt="Apps móviles" />
       <br /><br />
       <strong><a href="https://maximusdevs.com/es/services/mobile">Apps móviles</a></strong>
       <br /><br />
       iOS y Android, nativas o multiplataforma, recortadas a lo que el negocio necesita primero.
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="assets/icons/consulting.png" width="64" height="64" alt="Plan técnico" />
+      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/consulting.png" width="64" height="64" alt="Plan técnico" />
       <br /><br />
       <strong><a href="https://maximusdevs.com/es/services/consulting">Plan técnico</a></strong>
       <br /><br />
@@ -125,7 +125,7 @@
   <tr>
     <td width="33%" valign="top" align="center">
       <a href="https://maximusdevs.com/es/projects/signaloo">
-        <img src="assets/signaloo-card.png" alt="Signaloo" width="100%" />
+        <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/signaloo-card.png" alt="Signaloo" width="100%" />
       </a>
       <br />
       <strong><a href="https://maximusdevs.com/es/projects/signaloo">Signaloo</a></strong><br />
@@ -216,28 +216,28 @@ Soluciones que diseñamos, construimos y lanzamos de principio a fin, adaptadas 
 <table>
   <tr>
     <td width="25%" valign="top" align="center">
-      <img src="assets/icons/innovation.png" width="52" height="52" alt="Innovación" />
+      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/innovation.png" width="52" height="52" alt="Innovación" />
       <br /><br />
       <strong>Innovación</strong>
       <br />
       Tecnología al servicio del producto, no al revés.
     </td>
     <td width="25%" valign="top" align="center">
-      <img src="assets/icons/lock.png" width="52" height="52" alt="Seguridad" />
+      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/lock.png" width="52" height="52" alt="Seguridad" />
       <br /><br />
       <strong>Seguridad</strong>
       <br />
       Cada decisión considera el dato del cliente.
     </td>
     <td width="25%" valign="top" align="center">
-      <img src="assets/icons/transparency.png" width="52" height="52" alt="Transparencia" />
+      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/transparency.png" width="52" height="52" alt="Transparencia" />
       <br /><br />
       <strong>Transparencia</strong>
       <br />
       Comunicación directa y acuerdos claros.
     </td>
     <td width="25%" valign="top" align="center">
-      <img src="assets/icons/excellence.png" width="52" height="52" alt="Excelencia" />
+      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/excellence.png" width="52" height="52" alt="Excelencia" />
       <br /><br />
       <strong>Excelencia</strong>
       <br />
