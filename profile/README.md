@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/banner.jpg" alt="MaximusDevs" width="920" />
+  <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/banner.jpg" alt="MaximusDevs · IA que trabaja para tu negocio" width="920" />
 </p>
 
 <p align="center">
@@ -7,12 +7,14 @@
 </p>
 
 <h3 align="center">
-  Tu producto en manos de expertos
+  IA que trabaja para tu negocio
 </h3>
 
 <p align="center">
-  Diseñamos, construimos y aseguramos aplicaciones web, apps móviles y herramientas de IA<br />
-  para fundadores, pequeños negocios y los equipos dentro de ellos. El código es tuyo.<br />
+  Ayudamos a fundadores, pequeños negocios y equipos a adoptar la inteligencia artificial.<br />
+  Estrategia, automatización, asistentes e IA dentro del software que ya usas,<br />
+  con seguridad, resultados medibles y capacitación para tu equipo.<br />
+  <strong>Tu negocio. Tus datos. Tu IA.</strong><br />
   Sitio bilingüe · ES / EN · Costa Rica
 </p>
 
@@ -37,92 +39,142 @@
 
 ---
 
-## Lo que puedes contratar
+## Servicios de IA
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/design.png" width="64" height="64" alt="Diseño de producto" />
+    <td width="25%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/ai-strategy.png" width="64" height="64" alt="Estrategia y diagnóstico" />
       <br /><br />
-      <strong><a href="https://maximusdevs.com/es/services/design">Diseño de producto</a></strong>
+      <strong><a href="https://maximusdevs.com/es/services/ai-strategy">Estrategia y diagnóstico</a></strong>
       <br /><br />
-      Interfaces increíbles que tus clientes pueden usar, en el teléfono y en el escritorio.
+      Encontramos dónde la IA ahorra tiempo o dinero real en tu negocio y lo convertimos en una hoja de ruta.
     </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/security.png" width="64" height="64" alt="Seguridad" />
+    <td width="25%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/ai-prototyping.png" width="64" height="64" alt="Prototipos y pilotos" />
       <br /><br />
-      <strong><a href="https://maximusdevs.com/es/services/security">Seguridad</a></strong>
+      <strong><a href="https://maximusdevs.com/es/services/ai-prototyping">Prototipos y pilotos</a></strong>
       <br /><br />
-      Revisión, bloqueo y hábitos de desarrollo seguros para proteger los datos de tus proyectos.
+      Un prototipo o piloto en pocas semanas para probar la idea con usuarios reales antes del desarrollo completo.
     </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/web.png" width="64" height="64" alt="Productos web" />
+    <td width="25%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/automation.png" width="64" height="64" alt="Automatización de procesos y agentes" />
       <br /><br />
-      <strong><a href="https://maximusdevs.com/es/services/web">Productos web</a></strong>
+      <strong><a href="https://maximusdevs.com/es/services/automation">Automatización de procesos y agentes</a></strong>
       <br /><br />
-      La aplicación web con la que opera el negocio, con una estructura que puede crecer.
+      Correos, carga de datos, seguimiento y reportes, con agentes de IA conectados a tus herramientas.
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/ai-assistants.png" width="64" height="64" alt="Asistentes y chatbots" />
+      <br /><br />
+      <strong><a href="https://maximusdevs.com/es/services/ai-assistants">Asistentes y chatbots</a></strong>
+      <br /><br />
+      Asistentes que responden con tus propios documentos y pasan a una persona cuando no pueden.
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/innovation.png" width="64" height="64" alt="IA en el producto" />
+    <td width="25%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/ai-integration.png" width="64" height="64" alt="Integración en apps y sistemas" />
       <br /><br />
-      <strong>IA en el producto</strong>
+      <strong><a href="https://maximusdevs.com/es/services/ai-integration">Integración en apps y sistemas</a></strong>
       <br /><br />
-      IA con un trabajo concreto: análisis, diseño y construcción que tu equipo usa cada día.
+      IA dentro de tus apps web y móviles, tu CRM o tus sistemas internos, o un producto nuevo desde cero.
     </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/mobile.png" width="64" height="64" alt="Apps móviles" />
+    <td width="25%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/data-intelligence.png" width="64" height="64" alt="Inteligencia de documentos y datos" />
       <br /><br />
-      <strong><a href="https://maximusdevs.com/es/services/mobile">Apps móviles</a></strong>
+      <strong><a href="https://maximusdevs.com/es/services/data-intelligence">Inteligencia de documentos y datos</a></strong>
       <br /><br />
-      iOS y Android, nativas o multiplataforma, adaptadas a lo que el negocio necesita.
+      Datos extraídos de facturas, formularios y contratos, y pronósticos y alertas a partir de tus números.
     </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/consulting.png" width="64" height="64" alt="Plan técnico" />
+    <td width="25%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/ai-security.png" width="64" height="64" alt="Seguridad y gobernanza" />
       <br /><br />
-      <strong><a href="https://maximusdevs.com/es/services/consulting">Plan técnico</a></strong>
+      <strong><a href="https://maximusdevs.com/es/services/ai-security">Seguridad y gobernanza</a></strong>
       <br /><br />
-      Qué construir, qué dejar para después y cómo manejar el presupuesto.
+      Protección contra fugas de datos y usos indebidos, con las políticas y controles de un uso responsable.
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/ai-adoption.png" width="64" height="64" alt="Adopción y capacitación" />
+      <br /><br />
+      <strong><a href="https://maximusdevs.com/es/services/ai-adoption">Adopción y capacitación</a></strong>
+      <br /><br />
+      ChatGPT, Claude, Gemini o Microsoft Copilot en tu equipo, con capacitación, guías y seguimiento Agile.
     </td>
   </tr>
 </table>
 
-## Stack
+## Soluciones de IA que construimos
 
-<table width="100%">
+Soluciones que diseñamos y construimos para clientes, adaptadas al negocio, sus datos y las herramientas que ya usa.
+
+<table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <strong>Web</strong>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white" alt="React" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      <a href="https://maximusdevs.com/es/projects/supportassistant">
+        <img src="https://maximusdevs.com/images/projects/supportassistant/cover.png" alt="Asistente de soporte" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://maximusdevs.com/es/projects/supportassistant">Asistente de soporte</a></strong><br />
+      Asistentes · Respuestas desde tus documentos, con revisión humana
     </td>
     <td width="33%" valign="top" align="center">
-      <strong>Móvil</strong>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <a href="https://maximusdevs.com/es/projects/bookingapp">
+        <img src="https://maximusdevs.com/images/projects/bookingapp/cover.png" alt="Asistente de reservas con IA" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://maximusdevs.com/es/projects/bookingapp">Asistente de reservas con IA</a></strong><br />
+      Asistentes · Reservas por WhatsApp o web desde tu calendario real
     </td>
     <td width="33%" valign="top" align="center">
-      <strong>Cloud</strong>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <a href="https://maximusdevs.com/es/projects/clinicintake">
+        <img src="https://maximusdevs.com/images/projects/clinicintake/cover.png" alt="Admisión de documentos con IA" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://maximusdevs.com/es/projects/clinicintake">Admisión de documentos con IA</a></strong><br />
+      Datos · Formularios leídos, campos llenos y lo dudoso a revisión
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://maximusdevs.com/es/projects/operationsdashboard">
+        <img src="https://maximusdevs.com/images/projects/operationsdashboard/cover.png" alt="Monitor de operaciones con IA" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://maximusdevs.com/es/projects/operationsdashboard">Monitor de operaciones con IA</a></strong><br />
+      Automatización · Alertas de lo inusual y resumen diario en lenguaje claro
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://maximusdevs.com/es/projects/shopinventory">
+        <img src="https://maximusdevs.com/images/projects/shopinventory/cover.png" alt="Pronóstico de demanda" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://maximusdevs.com/es/projects/shopinventory">Pronóstico de demanda</a></strong><br />
+      Datos · Qué se venderá y qué reponer, con el dueño aprobando cada pedido
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://maximusdevs.com/es/projects/securitydashboard">
+        <img src="https://maximusdevs.com/images/projects/securitydashboard/cover.png" alt="Panel de uso y gobierno de IA" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://maximusdevs.com/es/projects/securitydashboard">Panel de uso y gobierno de IA</a></strong><br />
+      Seguridad · Qué herramientas de IA usa tu equipo y con qué datos
     </td>
   </tr>
 </table>
 
-## Proyectos
+## Productos del equipo
 
 <table>
   <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://maximusdevs.com/es/projects/qa-console">
+        <img src="https://maximusdevs.com/images/projects/qa-console/og.png" alt="QA Console" width="100%" />
+      </a>
+      <br />
+      <strong><a href="https://maximusdevs.com/es/projects/qa-console">QA Console</a></strong><br />
+      Web · QA con agentes de IA
+    </td>
     <td width="33%" valign="top" align="center">
       <a href="https://maximusdevs.com/es/projects/signaloo">
         <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/signaloo-card.png" alt="Signaloo" width="100%" />
@@ -141,72 +193,44 @@
       Android TV · File Transfer<br />
       <a href="https://maximusdevs.com/downloads/maximus-explorer-1.0.11.apk">Descargar APK</a>
     </td>
-    <td width="33%" valign="top" align="center">
-      <a href="https://maximusdevs.com/es/projects/qa-console">
-        <img src="https://maximusdevs.com/images/projects/qa-console/og.png" alt="QA Console" width="100%" />
-      </a>
-      <br />
-      <strong><a href="https://maximusdevs.com/es/projects/qa-console">QA Console</a></strong><br />
-      Web · QA con agentes de IA
-    </td>
   </tr>
 </table>
 
-## Soluciones que construimos
+## Stack
 
-Soluciones que diseñamos, construimos y lanzamos de principio a fin, adaptadas al negocio, sus datos y las herramientas que ya usa.
-
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top" align="center">
-      <a href="https://maximusdevs.com/es/projects/bookingapp">
-        <img src="https://maximusdevs.com/images/projects/bookingapp/cover.png" alt="App de reservas" width="100%" />
-      </a>
-      <br />
-      <strong><a href="https://maximusdevs.com/es/projects/bookingapp">App de reservas</a></strong><br />
-      Móvil · El cliente elige una hora y el dueño ve el día
+      <strong>Modelos e IA</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+      <img src="https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=flat-square" alt="Microsoft Copilot" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/LlamaIndex-111111?style=flat-square" alt="LlamaIndex" />
+      <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+      <img src="https://img.shields.io/badge/RAG-111111?style=flat-square" alt="RAG" />
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="https://maximusdevs.com/es/projects/securitydashboard">
-        <img src="https://maximusdevs.com/images/projects/securitydashboard/cover.png" alt="Panel de seguridad" width="100%" />
-      </a>
-      <br />
-      <strong><a href="https://maximusdevs.com/es/projects/securitydashboard">Panel de seguridad</a></strong><br />
-      Seguridad · Accesos, alertas y controles de cuentas
+      <strong>Automatización y seguridad</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+      <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" alt="Make" />
+      <img src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/OWASP_LLM_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP LLM Top 10" />
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="https://maximusdevs.com/es/projects/supportassistant">
-        <img src="https://maximusdevs.com/images/projects/supportassistant/cover.png" alt="Asistente de soporte" width="100%" />
-      </a>
-      <br />
-      <strong><a href="https://maximusdevs.com/es/projects/supportassistant">Asistente de soporte</a></strong><br />
-      IA · Respuestas desde tus documentos, con revisión humana
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <a href="https://maximusdevs.com/es/projects/shopinventory">
-        <img src="https://maximusdevs.com/images/projects/shopinventory/cover.png" alt="Inventario de tienda" width="100%" />
-      </a>
-      <br />
-      <strong><a href="https://maximusdevs.com/es/projects/shopinventory">Inventario de tienda</a></strong><br />
-      Web · Stock, pedidos y cobro
-    </td>
-    <td width="33%" valign="top" align="center">
-      <a href="https://maximusdevs.com/es/projects/clinicintake">
-        <img src="https://maximusdevs.com/images/projects/clinicintake/cover.png" alt="Admisión de clínica" width="100%" />
-      </a>
-      <br />
-      <strong><a href="https://maximusdevs.com/es/projects/clinicintake">Admisión de clínica</a></strong><br />
-      Web · Admisión, documentos y cola de revisión
-    </td>
-    <td width="33%" valign="top" align="center">
-      <a href="https://maximusdevs.com/es/projects/operationsdashboard">
-        <img src="https://maximusdevs.com/images/projects/operationsdashboard/cover.png" alt="Panel de operaciones" width="100%" />
-      </a>
-      <br />
-      <strong><a href="https://maximusdevs.com/es/projects/operationsdashboard">Panel de operaciones</a></strong><br />
-      Web · Lecturas en vivo y costo en una pantalla
+      <strong>Software y nube</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure" />
     </td>
   </tr>
 </table>
@@ -220,7 +244,7 @@ Soluciones que diseñamos, construimos y lanzamos de principio a fin, adaptadas 
       <br /><br />
       <strong>Innovación</strong>
       <br />
-      Tecnología al servicio del producto, no al revés.
+      IA al servicio del negocio, no al revés.
     </td>
     <td width="25%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/icons/lock.png" width="52" height="52" alt="Seguridad" />
@@ -241,7 +265,7 @@ Soluciones que diseñamos, construimos y lanzamos de principio a fin, adaptadas 
       <br /><br />
       <strong>Excelencia</strong>
       <br />
-      Calidad en el detalle, sin importar la escala.
+      Resultados medibles, sin importar la escala.
     </td>
   </tr>
 </table>
@@ -255,8 +279,8 @@ Soluciones que diseñamos, construimos y lanzamos de principio a fin, adaptadas 
 </p>
 
 <p align="center">
-  <a href="https://maximusdevs.com/es/contact"><img src="https://img.shields.io/badge/Iniciar_un_proyecto-111111?style=for-the-badge&labelColor=000000" alt="Iniciar un proyecto" /></a>
-  <a href="https://maximusdevs.com/es/projects"><img src="https://img.shields.io/badge/Ver_el_portafolio-111111?style=for-the-badge&labelColor=000000" alt="Ver el portafolio" /></a>
+  <a href="https://maximusdevs.com/es/contact"><img src="https://img.shields.io/badge/Empezar_con_un_diagnóstico-111111?style=for-the-badge&labelColor=000000" alt="Empezar con un diagnóstico" /></a>
+  <a href="https://maximusdevs.com/es/projects"><img src="https://img.shields.io/badge/Ver_el_trabajo-111111?style=for-the-badge&labelColor=000000" alt="Ver el trabajo" /></a>
 </p>
 
 <p align="center">
