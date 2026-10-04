@@ -21,7 +21,7 @@
 <p align="center">
   <a href="https://maximusdevs.com/es"><img src="https://img.shields.io/badge/Sitio-maximusdevs.com-111111?style=flat-square&labelColor=000000" alt="Sitio" /></a>
   <a href="https://www.youtube.com/@maximus-devs"><img src="https://img.shields.io/badge/YouTube-@maximus--devs-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.linkedin.com/company/maximus-devs"><img src="https://img.shields.io/badge/LinkedIn-MaximusDevs-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/company/maximus-devs"><img src="https://img.shields.io/badge/LinkedIn-Maximus--Devs-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/maximus_devs"><img src="https://img.shields.io/badge/X-@Maximus__Devs-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://github.com/Maximus-Devs"><img src="https://img.shields.io/badge/GitHub-Maximus--Devs-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
