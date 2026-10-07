@@ -161,11 +161,6 @@ Soluciones que diseñamos y construimos para clientes, adaptadas al negocio, sus
       Seguridad · Qué herramientas de IA usa tu equipo y con qué datos
     </td>
   </tr>
-</table>
-
-## Productos del equipo
-
-<table>
   <tr>
     <td width="33%" valign="top" align="center">
       <a href="https://maximusdevs.com/es/projects/qa-console">
