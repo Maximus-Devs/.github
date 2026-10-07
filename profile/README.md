@@ -14,7 +14,7 @@
   Ayudamos a fundadores, pequeños negocios y equipos a adoptar la inteligencia artificial.<br />
   Estrategia, automatización, asistentes e IA dentro del software que ya usas,<br />
   con seguridad, resultados medibles y capacitación para tu equipo.<br />
-  <strong>Tu negocio. Tus datos. Tu IA.</strong><br />
+  <strong>Tu negocio. Tus datos. Tu IA.</strong><br /><br />
   Sitio bilingüe · ES / EN · Costa Rica
 </p>
 
