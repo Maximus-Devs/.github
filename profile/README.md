@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/banner.jpg" alt="MaximusDevs · IA que trabaja para tu negocio" width="920" />
+  <img src="https://raw.githubusercontent.com/Maximus-Devs/.github/main/profile/assets/banner.jpg" alt="MaximusDevs · IA Implementada en las PyMEs" width="920" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  IA que trabaja para tu negocio
+  IA Implementada en las PyMEs
 </h3>
 
 <p align="center">
